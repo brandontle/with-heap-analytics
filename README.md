@@ -1,4 +1,4 @@
-# TypeScript Next.js example
+# TypeScript Next.js example with Heap Analytics
 
 This is a really simple project that show the usage of Next.js with TypeScript.
 
